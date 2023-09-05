@@ -1,7 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'L-3012'
-theme = 'hugo-developer-portfolio'
 
 # Plugin 
 [params.plugins]
