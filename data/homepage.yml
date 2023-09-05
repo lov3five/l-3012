@@ -1,0 +1,80 @@
+banner:
+  title: Hi! I’m L-3012
+
+social:
+  twitter: luongtranstaff
+  linkedin: luongtranstaff
+  bitbucket: ""
+  github: lov3five
+  gitlab: ""
+  facebook: ""
+  instagram: nakervn
+  gmail: luongtranstaff
+  hotmail: ""
+  telegram: ""
+  whatsapp: ""
+
+about:
+  enable: true
+  content: Software Engineer | JavaScript/TypeScript | Node.js | NestJS | Python | Flask | RESTful API
+  button:
+    btnText: Find out more
+    URL: "/about"
+
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: Details coming soon, contact me if you want to know more
+
+portfolio:
+  enable: false
+  item:
+    - title: Easy DMARC
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      description: A website to make it easy to add DMARC to a Vercel website
+      link: "/portfolio/easy-dmarc"
+      tools:
+        - next-dot-js
+        - tailwindcss
+        - vercel
+        - react
+
+experience:
+  enable: true
+  item:
+    - logo: https://agency.brvn.vn/u/geekup-logo_1682658002.jpg
+      title: Product Backend (Intern)
+      company: GEEK UP JSC
+      duration: January 2023 - April 2023
+
+certifications:
+  enable: true
+  item:
+    - title: TOEIC 550+
+      image: https://monkeymedia.vcdn.com.vn/upload/web/storage_web/08-06-2023_15:00:03_chung-chi-toeic-0.jpg
+
+awards:
+  enable: true
+  item:
+    - title: TOP PERFORMER
+      event: GEEK UP Internship Spring 2023
+      image: https://media.istockphoto.com/id/1283692056/vector/top-performers-website-template-designs-vector-illustration-concepts-for-website-and-mobile.jpg?s=612x612&w=0&k=20&c=ZHjmqgw-l_X9QJObHHWKJX-UI21fv6ldKZqxQ32mCpo=
+
+education:
+  enable: true
+  item:
+    - title: Bachelor's degree in Information Technology
+      year: 2019 - 2023
+      academy: Industrial University of Ho Chi Minh City
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_IUH.png/640px-Logo_IUH.png
+
+publications:
+  enable: false
+  item:
+    - image: /path/to/img
+      title: Title of the publication
+      description: details about the publication
+      code_link: link/to/the/repository
+      pdf_link: link/to/the/pdf
