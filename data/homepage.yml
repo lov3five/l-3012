@@ -24,8 +24,71 @@ about:
 skill:
   enable: true
   item:
+    - title: HTML5
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: CSS3
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg
+      description: Details coming soon, contact me if you want to know more
     - title: JavaScript
-      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: TypeScript
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: ReactJS
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Material UI
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Dart
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Flutter
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Node.js
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: NestJS
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Python
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Django
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Flask
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Flutter
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: PostgreSQL
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: MySQL
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Microsoft SQL Server
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: MongoDB
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Visual Studio Code
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Git
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: GitLab
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original-wordmark.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: GitHub
+      logo: https://raw.githubusercontent.com/lov3five/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg
       description: Details coming soon, contact me if you want to know more
 
 portfolio:
