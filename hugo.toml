@@ -34,6 +34,7 @@ home = "Home"
 # Meta data
 description = "Website of L-3012, Former Student of the Faculty of Information Technology at Industrial University of Ho Chi Minh City."
 author = "L-3012 | Lượng Trần"
+googleAnalytics = ""
 
 
   [params.contact]
@@ -44,3 +45,15 @@ author = "L-3012 | Lượng Trần"
   email = "luongtranstaff@gmail.com"
   address = "Ho Chi Minh City, Vietnam"
   googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.8581690910646!2d106.68427047508406!3d10.822164158348325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174deb3ef536f31%3A0x8b7bb8b7c956157b!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBDw7RuZyBuZ2hp4buHcCBUUC5IQ00!5e0!3m2!1svi!2s!4v1693816451855!5m2!1svi!2s"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "rainbow_dash"
+    tabWidth = 4
