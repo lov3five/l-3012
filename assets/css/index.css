@@ -37,7 +37,7 @@ ul.icons li a {
     white-space: nowrap;
 }
 
-ul.icons li a img{
+ul.icons li a img {
     width: 5em;
     height: 5em;
 }
@@ -89,29 +89,47 @@ ul.icons li a:hover {
 
 /*Skills images*/
 
-img.skills{
+img.skills {
     width: 80px;
     height: 80px;
 }
 
-img.certs{
+img.certs {
     height: 160px;
 }
 
-img.experience{
+img.experience {
     width: 150px;
     height: 180px;
 }
 
-a.unset{
-    all:unset
+a.unset {
+    all: unset
 }
 
-img.schools{
+img.schools {
     width: 280px;
     height: 280px;
 }
 
-img.publications{
+img.publications {
     height: 160px;
+}
+
+h1>span {
+    font-size: 50px;
+}
+
+/* Khi màn hình có chiều rộng ít hơn hoặc bằng 768px, giảm kích thước font */
+@media screen and (max-width: 768px) {
+    h1>span {
+        font-size: 30px;
+    }
+}
+
+/* Khi màn hình có chiều rộng ít hơn hoặc bằng 480px, giảm kích thước font hơn nữa */
+@media screen and (max-width: 480px) {
+    h1>span {
+        font-size: 20px;
+    }
 }
