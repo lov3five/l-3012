@@ -2,5 +2,6 @@
 
 
 <div align="center"><img  src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565"></div>
-I'am start loving Golang
+<div> I'am start loving Golang </div>
+
 ## Build with HUGO | Made with ❤
